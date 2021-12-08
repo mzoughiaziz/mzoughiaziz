@@ -18,4 +18,4 @@ I'm Aziz from Tunisia based in Brazil, and I'm a Full Stack Developer. I really 
 ## Some of Github stats 🏓: 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzoughiaziz&count_private=true&hide=contribs,prs&theme=radical)
 
-https://github4life.herokuapp.com/ethomson.gif
+![aziz](https://github4life.herokuapp.com/ethomson.gif)
