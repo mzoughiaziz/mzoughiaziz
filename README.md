@@ -14,3 +14,7 @@ I'm Aziz from Tunisia based in Brazil, and I'm a Full Stack Developer. I really 
 - On my website <a href="https://mzoughiaziz.vercel.app/landing">mzoughiaziz.app</a> 📹 ✍🏾
 <!--- Writing about IT subjects and topics on <a href="https://medium.com/@mzoughiaziz"> Medium</a> 🏓-->
 - Sharing updates and technical tips on <a href="https://www.linkedin.com/in/mzoughi-aziz/">LinkedIn</a> 💼
+
+## Some of Github stats 🏓: 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzoughiaziz&count_private=true)
+
