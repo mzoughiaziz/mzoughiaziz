@@ -1,16 +1,13 @@
-### Hi there 👋
+![Design and Development](https://www.canva.com/design/DAExg9aC8bc/d_yKvPsmgJB3Rmc2W9cN7w/view?utm_content=DAExg9aC8bc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-<!--
-**mzoughiaziz/mzoughiaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aziz Mzoughi
+I'm Aziz from Tunisia based in Brazil, and I'm a Full Stack Developer. I really enjoy learning languages and frameworks like Angular and React Native, as well as work in PHP framework Laravel. I also enjoy UI , UX and design in general. 
 
-Here are some ideas to get you started:
+## Skills and Experience
+* 💻 Angular 8+ / TypeScript / RxJs
+* 📱 React Native
+* 💻 HTML, CSS, JS
+* 💻 GIT / JIRA / PHP / MYSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Examples of Work
+<a href="https://mzoughiaziz.vercel.app/landing"  > My Portfolio Website </a>
