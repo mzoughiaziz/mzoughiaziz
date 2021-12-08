@@ -1,4 +1,4 @@
-![Design and Development](https://www.canva.com/design/DAExg9aC8bc/d_yKvPsmgJB3Rmc2W9cN7w/view?utm_content=DAExg9aC8bc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![coveraziz](https://user-images.githubusercontent.com/46766162/145229365-ed6d1a31-1307-4623-84be-4315c987e385.png)
 
 # Aziz Mzoughi
 I'm Aziz from Tunisia based in Brazil, and I'm a Full Stack Developer. I really enjoy learning languages and frameworks like Angular and React Native, as well as work in PHP framework Laravel. I also enjoy UI , UX and design in general. 
