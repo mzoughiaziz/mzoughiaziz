@@ -6,9 +6,9 @@ I'm Aziz from Tunisia based in Brazil, and I'm a Full Stack Developer. I really 
 ## Skills and Experience
 * 💻 Angular 8+ / TypeScript / RxJs
 * 📱 React Native / TSX
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS, JS / JQuery
 * 💻 GIT / JIRA / PHP
-* 💻 SQL/ NOSQL: MYSQL / MongoDB / SQLite
+* 💻 SQL/ NOSQL: MYSQL / MongoDB / SQLite / Firebase
 
 
 ## Find me around the web 🌎: 
