@@ -11,7 +11,7 @@ I'm Aziz from Tunisia based in Brazil, and I'm a Full Stack Developer. I really 
 * 💻 SQL/ NOSQL: MYSQL / MongoDB / SQLite / Firebase
 
 
-## Find me around the web 🌎👨‍: 
+## Find me around the web 🌎: 
 - On my website <a href="https://azizmzoughi.vercel.app/" target="_blank">mzoughiaziz.app</a> 📹 ✍🏾
 <!--- Writing about IT subjects and topics on <a href="https://medium.com/@mzoughiaziz" target="_blank"> Medium</a> 🏓-->
 - Sharing updates and technical tips on <a href="https://www.linkedin.com/in/mzoughi-aziz/" target="_blank">LinkedIn</a> 💼
